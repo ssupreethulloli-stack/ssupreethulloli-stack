@@ -12,7 +12,7 @@ Electrical &amp; Electronics Engineering Student
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=PLC+Programmer;Arduino+Developer;Embedded+Systems;Industrial+Automation;IoT+Enthusiast;Power+Electronics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=PLC+Programmer;Embedded+Systems;Industrial+Automation;IoT+Enthusiast;Power+Electronics"/>
 
 </p>
 
@@ -50,7 +50,6 @@ Electrical &amp; Electronics Engineering Student
 
 - PLC Programming
 - Ladder Logic
-- Arduino
 - Embedded C
 - IoT
 - Artificial Intelligence
@@ -119,15 +118,15 @@ Electrical &amp; Electronics Engineering Student
 
 📧 Email
 
-YOUR_EMAIL@gmail.com
+ssupreethulloli@gmail.com
 
 💼 LinkedIn
 
-YOUR_LINKEDIN_URL
+https://www.linkedin.com/in/supreet-hulloli-009813387
 
 🐙 GitHub
 
-https://github.com/YOUR_USERNAME
+https://github.com/ssupreethulloli-stack
 
 ---
 
