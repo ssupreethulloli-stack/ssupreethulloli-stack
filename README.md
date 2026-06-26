@@ -1,4 +1,3 @@
-<!-- ======================= Banner ======================= -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=250&section=header&text=Supreet%20Hulloli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20%26%20Electronics%20Engineering%20Student&descAlignY=60"/>
