@@ -19,7 +19,7 @@ Electrical &amp; Electronics Engineering Student
 ---
 
 <h2 align="center">
-⚡ PLC | Embedded Systems | IoT | AI | VLSI
+⚡ PLC | Embedded Systems | VLSI | AI | IOT |
 </h2>
 
 <p align="center">
