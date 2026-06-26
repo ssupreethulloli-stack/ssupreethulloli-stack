@@ -1,6 +1,7 @@
-<!-- Banner -->
+<!-- ================= Banner ================= -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&text=Supreet%20Hulloli&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=250&section=header&text=Supreet%20Hulloli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Supreet Hulloli</h1>
@@ -10,65 +11,128 @@ Electrical &amp; Electronics Engineering Student
 </h3>
 
 <p align="center">
-PLC • Arduino • Embedded Systems • IoT • AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=PLC+Programmer;Arduino+Developer;Embedded+Systems;Industrial+Automation;IoT+Enthusiast;Power+Electronics"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">
+⚡ PLC | Arduino | Embedded Systems | IoT | AI
+</h2>
 
-- 🎓 Electrical &amp; Electronics Engineering Student
-- 💡 Passionate about Industrial Automation
-- 🚀 Interested in PLC, Arduino, Embedded Systems and IoT
-- 🌱 Currently learning TIA Portal and Python
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🛠 Skills
+# 👨‍💻 About Me
+
+🎓 Electrical & Electronics Engineering Student
+
+⚡ Passionate about Industrial Automation and Embedded Systems
+
+💡 Interested in
 
 - PLC Programming
 - Ladder Logic
 - Arduino
 - Embedded C
-- Python
-- MATLAB
-- Git & GitHub
+- IoT
+- Artificial Intelligence
+
+🚀 I love building real engineering projects.
 
 ---
 
-## 🚗 Featured Projects
+# 🛠 Skills
 
-### PLC-Based Automatic Car Washing System
+<p align="center">
 
-- Conveyor Control
-- Soap Water Spray
-- Brush Cleaning
-- Clean Water Rinse
-- Dryer Fan
-- Proximity Sensor
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode"/>
 
-### Automated Flour Mill Speed Control
-
-- Arduino UNO
-- Stepper Motor
-- PWM Speed Control
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 🚗 PLC-Based Automatic Car Washing System
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+✔ Conveyor Control
+
+✔ Soap Water Spray
+
+✔ Brush Cleaning
+
+✔ Clean Water Rinse
+
+✔ Dryer Fan
+
+✔ Proximity Sensor
 
 ---
 
-## 📫 Contact
+## 🌾 Automated Flour Mill Speed Control
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL@gmail.com
+✔ Arduino UNO
 
-⭐ Thanks for visiting my profile!
+✔ Stepper Motor
 
+✔ PWM Control
 
+---
+
+## 🔋 AI-Based Battery Health Prediction
+
+(Current Project)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+YOUR_EMAIL@gmail.com
+
+💼 LinkedIn
+
+YOUR_LINKEDIN_URL
+
+🐙 GitHub
+
+https://github.com/YOUR_USERNAME
+
+---
+
+<h1 align="center">
+
+⭐ Thanks for Visiting My Profile ⭐
+
+</h1>
