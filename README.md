@@ -53,6 +53,7 @@ Electrical &amp; Electronics Engineering Student
 - Embedded C
 - IoT
 - Artificial Intelligence
+- VLSI
 
 🚀 I love building real engineering projects.
 
